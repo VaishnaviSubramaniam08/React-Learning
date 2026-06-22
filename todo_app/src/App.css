@@ -1,0 +1,45 @@
+body {
+
+  font-family: Arial;
+  background: #f4f4f4;
+
+}
+
+
+.app {
+
+  width: 400px;
+  margin: 50px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+
+}
+
+h1 {
+  color: black;
+}
+
+input {
+
+  padding: 10px;
+  background-color: #f4f4f4;
+  color: black;
+
+}
+
+
+button {
+
+  padding: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+
+}
+
+
+div {
+
+  margin: 10px;
+
+}
